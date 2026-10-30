@@ -61,9 +61,14 @@ Library management system demonstrating Java EE technologies with JSF and Hibern
 **Technologies**: Java, JSF, Hibernate, MySQL, Maven
 
 ### [Iris Detection](https://github.com/hiba400/iris_detection)
-Machine learning project for iris pattern detection using Python.
+Computer vision project for iris pattern detection using Python and OpenCV.
 
-**Technologies**: Python, Machine Learning, Data Science
+**Technologies**: Python, OpenCV, Flask, Computer Vision
+
+### [Stream-Flex](https://github.com/hiba400/Stream-Flex)
+Video streaming platform with React frontend and Flask backend.
+
+**Technologies**: React, Flask, SQLite, TypeScript, Tailwind CSS
 
 ---
 
